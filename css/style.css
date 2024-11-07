@@ -1,0 +1,181 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+bg_img{
+    background-image: url(/img/Glavnoe.png);
+}
+.row{
+    display: flex;
+}
+.container{
+    max-width: 1100px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.right{
+    margin-right: auto;
+}
+header{
+    padding: 30px 0;
+}
+ul{
+    list-style: none;
+}
+.header-margin{
+    margin-top: 20px;
+}
+.p_header{
+    font-family: sans-serif;
+    font-size: 16px;
+    margin-top: 13px;
+}
+.button{
+    border: none;
+    border-radius: 7px;
+    width: 214px;
+    height: 42px;
+    background-color: #FFA100;
+    color: white;
+    cursor: pointer;
+}
+.header_logo{
+    font-size: 30px;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+li{
+    margin-right: 20px;
+    margin-top: 9px;
+    cursor: pointer;
+    font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
+}
+.bg_img{
+    background-image: url(/img/Glavnoe.png);
+    width: 100%;
+    height: 880px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.h1_main{
+    text-align: center;
+    color: white;
+    font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
+    font-size: 56px;
+    padding-top: 30%;
+    line-height: 150%;
+}
+.p_main{
+    color: white;
+    line-height: 150%;
+    font-size: 18px;
+    font-family: sans-serif;
+    text-align: center;
+}
+.button_main{
+    width: 145px;
+    height: 42px;
+    color: black;
+    font-family: sans-serif;
+    font-weight: bold;
+    border-radius: 5px;
+    border: none;
+    font-size: 14px;
+    cursor: pointer;
+}
+.center{
+    margin-top: 30px;
+    text-align: center;
+}
+.ourplus{
+    font-size: 36px;
+    font-family: sans-serif;
+    color: #928989;
+    text-align: left;
+}
+.block{
+    display: block;
+    text-align: center;
+    margin-top: 65px;
+    padding:0 20px;
+}
+.ourplus_div{
+    color: #928989;
+    font-size: 16px;
+    font-family: sans-serif;
+    margin-top: 18px;
+}
+.ourplus_img{
+    height: 100px;
+}
+.between{
+    justify-content: space-between;
+}
+.us{
+    font-size: 20px;
+    font-weight: lighter;
+    color: #928989;
+    line-height: 30px;
+    font-family: sans-serif;
+    margin-top: 60px;
+}
+.sub{
+    width: 300px;
+    height: 43px;
+    color: white;
+    text-align: left;
+    font-size: 16px;
+    font-weight: bold;
+    font-family: sans-serif;
+}
+.text{
+    text-align: left;
+    width: 222px;
+    height: 46px;
+    margin-left: 40px;
+    background: transparent;
+    border: 1px solid white;
+    color: white;
+    font-size: 18px;
+    font-family: sans-serif;
+}
+.buttsub{
+    width: 222px;
+    height: 48px;
+    background-color: white;
+    margin-left: 40px;
+    border: none;
+    cursor: pointer;
+    color: black;
+    font-weight: bold;
+    font-size: 16px;
+}
+.PandM{
+    color: #928989;
+    font-family: sans-serif;
+    font-size: 18px;
+    margin-top: 60px;
+}
+.bottom{
+    margin-top: 20px;
+}
+.p3{
+    font-size: 16px;
+    font-family: sans-serif;
+    color: #928989;
+    margin-left: 20px;
+}
+.p3:active{
+    width: auto;
+    height: auto;
+    border: none;
+    background-color: #FFA100;
+    cursor: pointer;
+    padding: 5px;
+    color: white;
+    border-radius: 10px;
+}
